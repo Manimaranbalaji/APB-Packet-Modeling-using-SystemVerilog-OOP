@@ -131,7 +131,8 @@ The simulation is carried out using ModelSim 2020.1.
 
 Output log will show the APB packet details created using class objects.
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/fc07474b-9371-439d-bb12-87c94155d212" />
+<img width="1918" height="1016" alt="490893103-fc07474b-9371-439d-bb12-87c94155d212" src="https://github.com/user-attachments/assets/94e43f2f-1d71-4e5a-858b-e0ccb0accfee" />
+
 
 
 
